@@ -56,7 +56,7 @@ The box model contains margins, borders, and padding properties. These propertie
 
 ### Submission
 * Submit a link to your forked repository in the Submission form provided in your slack channel.
-  LINK for REPIT: https://replit.com/@joe1011/JoeWeek3Exam#
+  LINK for REPIT: [https://replit.com/@joe1011/JoeWeek3Exam#](https://replit.com/@joe1011/JoeMod3Exam#)
 
 ## Rubric
 This assessment has a total of 20 points.  Scoring 15 or higher is considered a pass.
